@@ -1,6 +1,6 @@
 ### About the Slice Scout Team
 
-Slice Scout was created by a group of NYC-based college students who share a deep love for 99¢ pizza—a true New York City staple. Our mission is simple: to help New Yorkers find affordable, authentic slices amidst rising prices while preserving this cherished tradition for generations to come.
+Slice Scout was created by a group of NYC-based college students who share a deep love for 99¢ pizza. Our mission is simple: to help New Yorkers find affordable, authentic slices amidst rising prices while preserving this cherished tradition for generations to come.
 
 ### Our Story
 
